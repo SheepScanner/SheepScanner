@@ -4,4 +4,4 @@
 
 ## License
 
-The contents of this repository are covered under the [MPL 2.0 License](LICENSE).
+The contents of this repository are covered under the [Mozilla Public License 2.0](LICENSE).
