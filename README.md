@@ -1,5 +1,5 @@
 ## SheepScanner
-![picture alt](https://i.imgur.com/XmNMRk9.png "Logo")
+![picture alt](https://i.imgur.com/JIMlRAa.png "Logo")
 
 ## Installation
 
