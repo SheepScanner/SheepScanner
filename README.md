@@ -1,5 +1,6 @@
-## Installation
+## SheepScanner
 ![picture alt](https://i.imgur.com/XmNMRk9.png "Logo")
+
 ## Installation
 
 
