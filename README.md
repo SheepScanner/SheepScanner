@@ -1,4 +1,4 @@
-## SheepScanner [![Status](https://img.shields.io/badge/Status-In_Development-yellow.svg)](#) 
+# SheepScanner [![Status](https://img.shields.io/badge/Status-In_Development-yellow.svg)](#) 
 
 ![picture alt](https://i.imgur.com/xmHw1qb.png "Logo")
 
