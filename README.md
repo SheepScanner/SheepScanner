@@ -1,5 +1,5 @@
 ## Installation
-![picture alt](https://i.imgur.com/j9RHAvz.png "Logo")
+![picture alt](https://i.imgur.com/XmNMRk9.png "Logo")
 ## Installation
 
 
